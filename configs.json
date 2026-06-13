@@ -1,0 +1,19 @@
+{
+  "appVersion": "1.0",
+  "categories": [
+    {
+      "id": "black",
+      "name": "Black Amoled",
+      "iconName": "DarkMode",
+      "configUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Black/config.json",
+      "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Black/black%20(1).jpg"
+    },
+    {
+      "id": "nature",
+      "name": "Beautiful Nature",
+      "iconName": "Forest",
+      "configUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Nature/config.json",
+      "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Nature/nature%20(1).jpg"
+    }
+  ]
+}
