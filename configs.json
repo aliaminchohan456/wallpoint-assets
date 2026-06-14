@@ -3,21 +3,21 @@
   "categories": [
     {
       "id": "black",
-      "name": "Black Wallpapers",
+      "name": "Black",
       "iconName": "Wallpaper",
       "configUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Black/config.json",
       "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Black/black%20%281%29.jpg"
     },
     {
       "id": "cars",
-      "name": "Cars Wallpapers",
+      "name": "Cars",
       "iconName": "Wallpaper",
       "configUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/config.json",
       "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%281%29.jpeg"
     },
     {
       "id": "fall",
-      "name": "Fall Wallpapers",
+      "name": "Fall",
       "iconName": "Wallpaper",
       "configUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/config.json",
       "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/fall%20%281%29.jpg"

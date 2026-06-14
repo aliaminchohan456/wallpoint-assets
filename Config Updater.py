@@ -95,14 +95,14 @@ def main():
         images = [f for f in os.listdir(folder_path) if f.lower().endswith(('.jpg', '.png', '.jpeg', '.webp'))]
         images.sort(key=natural_sort_key)
 
-        # 2. GENERATE CONFIG.JSON
+        # 2. GENERATE CONFIG.JSON (Folders ke andar wali files)
         wallpapers = []
         for index, file_name in enumerate(images):
             encoded_name = urllib.parse.quote(file_name)
             cdn_url = f"https://cdn.jsdelivr.net/gh/{github_user}/{repo_name}@{branch}/{folder_name}/{encoded_name}"
             
             wall_id = f"{category_id}{(index + 1):03d}"
-            # YAHAN CHANGE KIYA HAI: "Black Wallpaper 1" se "Black 1"
+            # Sirf "Black 1", "Fall 1" waghera
             title = f"{folder_name.capitalize()} {index + 1}"
             
             wallpapers.append({
@@ -126,20 +126,21 @@ def main():
         
         print(f"[{folder_name}] config.json updated with {len(images)} wallpapers.")
 
-        # 3. UPDATE MASTER CONFIGS.JSON
+        # 3. UPDATE MASTER CONFIGS.JSON (Bahar wali main file)
         encoded_cover = urllib.parse.quote(images[0])
         cover_image_url = f"https://cdn.jsdelivr.net/gh/{github_user}/{repo_name}@{branch}/{folder_name}/{encoded_cover}"
         config_url = f"https://cdn.jsdelivr.net/gh/{github_user}/{repo_name}@{branch}/{folder_name}/config.json"
 
         if category_id in existing_categories:
             cat_entry = existing_categories[category_id]
+            # Jabardasti purane naam ko clean kar ke update karega
+            cat_entry["name"] = folder_name.capitalize() 
             cat_entry["configUrl"] = config_url
             cat_entry["coverImage"] = cover_image_url
             updated_categories_list.append(cat_entry)
         else:
             updated_categories_list.append({
                 "id": category_id,
-                # YAHAN CHANGE KIYA HAI: "Black Wallpapers" se "Black"
                 "name": folder_name.capitalize(),
                 "iconName": "Wallpaper",
                 "configUrl": config_url,
