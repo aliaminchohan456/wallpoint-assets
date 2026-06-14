@@ -3,17 +3,24 @@
   "categories": [
     {
       "id": "black",
-      "name": "Black Amoled",
-      "iconName": "DarkMode",
+      "name": "Black Wallpapers",
+      "iconName": "Wallpaper",
       "configUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Black/config.json",
-      "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Black/black%20(1).jpg"
+      "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Black/black%20%281%29.jpg"
     },
     {
-      "id": "nature",
-      "name": "Beautiful Nature",
-      "iconName": "Forest",
-      "configUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Nature/config.json",
-      "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Nature/nature%20(1).jpg"
+      "id": "cars",
+      "name": "Cars Wallpapers",
+      "iconName": "Wallpaper",
+      "configUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/config.json",
+      "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%281%29.jpeg"
+    },
+    {
+      "id": "fall",
+      "name": "Fall Wallpapers",
+      "iconName": "Wallpaper",
+      "configUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/config.json",
+      "coverImage": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/fall%20%281%29.jpg"
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "category": "fall",
+  "wallpapers": [
+    {
+      "id": "fall001",
+      "title": "Fall Wallpaper 1",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/fall%20%281%29.jpg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "fall002",
+      "title": "Fall Wallpaper 2",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/fall%20%282%29.jpg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "fall003",
+      "title": "Fall Wallpaper 3",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/fall%20%283%29.jpg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "fall004",
+      "title": "Fall Wallpaper 4",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/fall%20%284%29.jpg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "fall005",
+      "title": "Fall Wallpaper 5",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/fall%20%285%29.jpg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "fall006",
+      "title": "Fall Wallpaper 6",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/fall%20%286%29.jpg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "fall007",
+      "title": "Fall Wallpaper 7",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Fall/fall%20%287%29.jpg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    }
+  ]
+}

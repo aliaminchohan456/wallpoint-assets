@@ -1,0 +1,68 @@
+{
+  "category": "cars",
+  "wallpapers": [
+    {
+      "id": "cars001",
+      "title": "Cars Wallpaper 1",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%281%29.jpeg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "cars002",
+      "title": "Cars Wallpaper 2",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%282%29.jpeg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "cars003",
+      "title": "Cars Wallpaper 3",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%283%29.jpeg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "cars004",
+      "title": "Cars Wallpaper 4",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%284%29.jpeg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "cars005",
+      "title": "Cars Wallpaper 5",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%285%29.jpeg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "cars006",
+      "title": "Cars Wallpaper 6",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%286%29.jpeg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    },
+    {
+      "id": "cars007",
+      "title": "Cars Wallpaper 7",
+      "photographer": "Wallpoint",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%287%29.jpeg",
+      "aspectRatio": 0.5625,
+      "resolution": "2400x3200",
+      "size": "1.2 MB"
+    }
+  ]
+}
