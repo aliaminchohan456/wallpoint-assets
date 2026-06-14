@@ -3,7 +3,7 @@
   "wallpapers": [
     {
       "id": "cars001",
-      "title": "Cars Wallpaper 1",
+      "title": "Cars 1",
       "photographer": "Wallpoint",
       "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%281%29.jpeg",
       "aspectRatio": 0.5625,
@@ -12,7 +12,7 @@
     },
     {
       "id": "cars002",
-      "title": "Cars Wallpaper 2",
+      "title": "Cars 2",
       "photographer": "Wallpoint",
       "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%282%29.jpeg",
       "aspectRatio": 0.5625,
@@ -21,7 +21,7 @@
     },
     {
       "id": "cars003",
-      "title": "Cars Wallpaper 3",
+      "title": "Cars 3",
       "photographer": "Wallpoint",
       "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%283%29.jpeg",
       "aspectRatio": 0.5625,
@@ -30,7 +30,7 @@
     },
     {
       "id": "cars004",
-      "title": "Cars Wallpaper 4",
+      "title": "Cars 4",
       "photographer": "Wallpoint",
       "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%284%29.jpeg",
       "aspectRatio": 0.5625,
@@ -39,7 +39,7 @@
     },
     {
       "id": "cars005",
-      "title": "Cars Wallpaper 5",
+      "title": "Cars 5",
       "photographer": "Wallpoint",
       "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%285%29.jpeg",
       "aspectRatio": 0.5625,
@@ -48,7 +48,7 @@
     },
     {
       "id": "cars006",
-      "title": "Cars Wallpaper 6",
+      "title": "Cars 6",
       "photographer": "Wallpoint",
       "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%286%29.jpeg",
       "aspectRatio": 0.5625,
@@ -57,7 +57,7 @@
     },
     {
       "id": "cars007",
-      "title": "Cars Wallpaper 7",
+      "title": "Cars 7",
       "photographer": "Wallpoint",
       "imageUrl": "https://cdn.jsdelivr.net/gh/aliaminchohan456/wallpoint-assets@main/Cars/cars%20%287%29.jpeg",
       "aspectRatio": 0.5625,

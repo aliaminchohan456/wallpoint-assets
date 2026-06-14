@@ -37,7 +37,7 @@ def push_to_github(repo_path):
         # Git add
         subprocess.run(["git", "add", "."], cwd=repo_path, check=True, capture_output=True)
         
-        # Git commit (Agar koi nayi change nahi hogi toh ye error de sakta hai, isliye isko handle kiya hai)
+        # Git commit
         commit_process = subprocess.run(["git", "commit", "-m", "Auto-updated Wallpapers & Configs"], cwd=repo_path, capture_output=True)
         if "nothing to commit" in commit_process.stdout.decode():
             print("⚠️ Koi nayi file add nahi hui, sab pehle se updated hai.")
@@ -102,7 +102,8 @@ def main():
             cdn_url = f"https://cdn.jsdelivr.net/gh/{github_user}/{repo_name}@{branch}/{folder_name}/{encoded_name}"
             
             wall_id = f"{category_id}{(index + 1):03d}"
-            title = f"{folder_name.capitalize()} Wallpaper {index + 1}"
+            # YAHAN CHANGE KIYA HAI: "Black Wallpaper 1" se "Black 1"
+            title = f"{folder_name.capitalize()} {index + 1}"
             
             wallpapers.append({
                 "id": wall_id,
@@ -138,7 +139,8 @@ def main():
         else:
             updated_categories_list.append({
                 "id": category_id,
-                "name": f"{folder_name.capitalize()} Wallpapers",
+                # YAHAN CHANGE KIYA HAI: "Black Wallpapers" se "Black"
+                "name": folder_name.capitalize(),
                 "iconName": "Wallpaper",
                 "configUrl": config_url,
                 "coverImage": cover_image_url
